@@ -11,6 +11,7 @@ const projectsRoute = require("./routes/projectsRoute");
 const allowedOrigins = [
   "http://localhost:3000",
   "https://profile-page-frontend.vercel.app",
+  "https://www.shashankbs.in",
 ];
 
 const corsOptions = {
